@@ -1,0 +1,21 @@
+provider_id,name,service_category,city,rating
+1,Danielle Lee,Tutoring,Denver,4.8
+2,Javier Ramirez,Tutoring,Denver,3.8
+3,Thomas Ramos,Cleaning,Boston,4.5
+4,Krista Williams,Tutoring,Boston,4.8
+5,Dr. Tracy House DVM,Cleaning,Portland,3.9
+6,John Lewis,Pet Grooming,Seattle,3.7
+7,Anthony Gray,Tutoring,Austin,4.5
+8,Mrs. Rachel Gibson,Pet Grooming,Boston,4.4
+9,Tyler Cowan,Hairdressing,Denver,4.6
+10,Michelle Moore,Hairdressing,Portland,4.1
+11,Wayne Riley,Pet Grooming,Denver,3.8
+12,Nicole Brown,Tutoring,Boston,3.8
+13,Kathryn Farrell,Cleaning,Seattle,4.1
+14,Tyler Miller,Cleaning,Austin,4.9
+15,Kurt Leonard,Personal Training,Seattle,3.8
+16,Bryan Zamora,Handyman,Portland,4.8
+17,Kristopher Harvey,Pet Grooming,Portland,3.7
+18,Kevin Mills,Hairdressing,Austin,4.6
+19,Christina Moran,Personal Training,Seattle,4.6
+20,James Powers,Handyman,Denver,4.1
